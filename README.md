@@ -7,7 +7,6 @@
 ### 🧠 About Me
 
 📍 Systems Engineering student at Pontificia Universidad Javeriana, interested in connecting technology, business, and users
-
 🖌️ Currently working as a freelance graphic designer
 🔭 Always learning new tools and technologies on my own
 🎯 Exploring the intersection of AI, product management, and FinTech
@@ -31,8 +30,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**Networking**
-![GNS3](https://img.shields.io/badge/-GNS3-008BB9?style=flat-square)
 
 **Design**
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
