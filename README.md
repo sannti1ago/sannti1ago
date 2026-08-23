@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Santiago
+# 👋 Hi, I'm Santiago Gaitan Oviedo
 
-⚙️ Systems Engineering Student | 🎨 Freelance Graphic Designer | ✨ AI Enthusiast
+ ✨ Systems Engineering Student | Freelance Graphic Designer | AI Enthusiast ✨
 
 ---
 
