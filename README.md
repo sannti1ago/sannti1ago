@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Santiago Gaitan Oviedo
 
- ✨ Systems Engineering Student | Freelance Graphic Designer | AI Enthusiast ✨
+                         ✨ Systems Engineering Student | Freelance Graphic Designer | AI Enthusiast ✨
+                                                  📍 Bogotá D.C., Colombia 🇨🇴
+                                              [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-gaitan-oviedo-a867493a4)
 
 ---
 
@@ -51,9 +53,3 @@
 - 🧪 Keep exploring AI applied to business
 - 🌎 Build digital solutions with real impact
 - 🔄 Keep learning, self-driven and consistently
-
----
-
-### ✉️ Contact
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-gaitan-oviedo-a867493a4)
