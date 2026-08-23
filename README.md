@@ -1,4 +1,3 @@
-[README (3).md](https://github.com/user-attachments/files/31345528/README.3.md)
 # 👋 Hi, I'm Santiago
 
 ⚙️ Systems Engineering Student | 🎨 Freelance Graphic Designer | ✨ AI Enthusiast
