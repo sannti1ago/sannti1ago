@@ -1,8 +1,14 @@
+<div align="center">
+
 # 👋 Hi, I'm Santiago Gaitan Oviedo
 
-- ✨ Systems Engineering Student | Freelance Graphic Designer | AI Enthusiast ✨
-- 📍 Bogotá D.C., Colombia 🇨🇴
--  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-gaitan-oviedo-a867493a4)
+✨ Systems Engineering Student | Freelance Graphic Designer | AI Enthusiast ✨
+
+📍 Bogotá D.C., Colombia 🇨🇴
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-gaitan-oviedo-a867493a4)
+
+</div>
 
 ---
 
@@ -18,11 +24,11 @@
 
 ### 🧩 Areas I'm Growing In
 
-- ▫️ Data Analysis
-- ▫️ Networks & Distributed Systems
-- ▫️ Software Development
-- ▫️ Applied Artificial Intelligence
-- ▫️ Data Structures & Algorithms
+- Data Analysis
+- Networks & Distributed Systems
+- Software Development
+- Applied Artificial Intelligence
+- Data Structures & Algorithms
 
 ---
 
@@ -31,9 +37,6 @@
 **Languages**
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-**Networking**
-![GNS3](https://img.shields.io/badge/-GNS3-008BB9?style=flat-square)
 
 **Design**
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
@@ -53,3 +56,5 @@
 - 🧪 Keep exploring AI applied to business
 - 🌎 Build digital solutions with real impact
 - 🔄 Keep learning, self-driven and consistently
+
+---
