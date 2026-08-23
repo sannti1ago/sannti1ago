@@ -7,6 +7,7 @@
 ### 🧠 About Me
 
 📍 Systems Engineering student at Pontificia Universidad Javeriana, interested in connecting technology, business, and users
+
 🖌️ Currently working as a freelance graphic designer
 🔭 Always learning new tools and technologies on my own
 🎯 Exploring the intersection of AI, product management, and FinTech
