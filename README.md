@@ -1,67 +1,45 @@
-<div align="center">
-
-# 👋 Hi, I'm Santiago Gaitan Oviedo
-
-✨ Systems Engineering Student | Freelance Graphic Designer | AI Enthusiast ✨
-
-📍 Bogotá D.C., Colombia 🇨🇴
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-gaitan-oviedo-a867493a4)
-
-</div>
-
----
-
-### 🧠 About Me
-
-- 📍 Systems Engineering student at Pontificia Universidad Javeriana, interested in connecting technology, business, and users
-- 🖌️ Currently working as a freelance graphic designer
-- 🔭 Always learning new tools and technologies on my own
-- 🎯 Exploring the intersection of AI, product management, and FinTech
-- 🧪 I experiment daily with AI tools like Claude
-
----
-
-### 🧩 Areas I'm Growing In
-
-- Data Analysis
-- Networks & Distributed Systems
-- Software Development
-- Applied Artificial Intelligence
-- Data Structures & Algorithms
-
----
-
-### 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:5eead4,100:a78bfa&text=Santiago%20Gaitan&fontColor=0d1117&fontSize=54&fontAlignY=38&desc=Systems%20Engineering%20%C3%97%20Graphic%20Design&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <div align="center">
 
-**Languages**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=5EEAD4&center=true&vCenter=true&width=520&lines=Systems+Engineering+student+%40+Javeriana;Freelance+graphic+designer;Exploring+AI+%C3%97+product+%C3%97+FinTech" alt="typing" />
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+📍 Bogotá, Colombia 🇨🇴
 
-**Design**
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**AI & Productivity Tools**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=5eead4&labelColor=0d1117)](https://www.linkedin.com/in/santiago-gaitan-oviedo-a867493a4)
 
 </div>
 
----
+<br>
 
-### 🚩 Goals
+## ✦ About
 
-- 📈 Grow into roles where I can combine technology, data, and strategy
-- 🧪 Keep exploring AI applied to business
-- 🌎 Build digital solutions with real impact
-- 🔄 Keep learning, self-driven and consistently
+I connect **technology, design and business**. By day I study Systems Engineering at Pontificia Universidad Javeriana; on the side I design as a freelancer. I experiment daily with AI tools like Claude and I'm always learning something new on my own.
 
----
+<br>
+
+## ✦ Toolkit
+
+<div align="center">
+
+![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-0d1117?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![Lightroom](https://img.shields.io/badge/Lightroom-0d1117?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci-0d1117?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=276DC3)
+![Claude](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
+
+</div>
+
+<br>
+
+## ✦ Currently into
+
+`Data Analysis` · `Networks & Distributed Systems` · `Software Development` · `Applied AI` · `Algorithms`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:a78bfa,100:5eead4&section=footer" width="100%" alt="footer" />
