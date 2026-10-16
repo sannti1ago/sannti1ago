@@ -40,15 +40,4 @@ I connect **technology, design and business**. By day I study Systems Engineerin
 
 </div>
 
-
-<br>
-
-## ✦ Currently into
-
-| 🧠 Think | 🔌 Build | 🎨 Create |
-|:--|:--|:--|
-| Making sense of data<br>AI applied to business | How networks and systems talk<br>Clean, reliable software<br>FinTech and product thinking | Visual identity and branding<br>Photo and video editing<br>Designing with AI in the loop |
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:a78bfa,100:5eead4&section=footer" width="100%" alt="footer" />
