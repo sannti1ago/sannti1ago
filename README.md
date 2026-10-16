@@ -6,7 +6,7 @@
 
 📍 Bogotá, Colombia 🇨🇴
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0d1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0iIzBBNjZDMiIvPjx0ZXh0IHg9IjEyIiB5PSIxNyIgZm9udC1mYW1pbHk9IkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIxMyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI0ZGRkZGRiI%2BaW48L3RleHQ%2BPC9zdmc%2B)](https://www.linkedin.com/in/santiago-gaitan-oviedo-a867493a4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=5eead4&labelColor=0d1117)](https://www.linkedin.com/in/santiago-gaitan-oviedo-a867493a4)
 
 </div>
 
