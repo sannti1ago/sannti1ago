@@ -45,7 +45,9 @@ I connect **technology, design and business**. By day I study Systems Engineerin
 
 ## ✦ Currently into
 
-`Data Analysis` · `Networks & Distributed Systems` · `Software Development` · `Applied AI` · `Algorithms`
+| 🧠 Think | 🔌 Build | 🎨 Create |
+|:--|:--|:--|
+| Making sense of data<br>AI applied to business | How networks and systems talk<br>Clean, reliable software<br>FinTech and product thinking | Visual identity and branding<br>Photo and video editing<br>Designing with AI in the loop |
 
 <br>
 
